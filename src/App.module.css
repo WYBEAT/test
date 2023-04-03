@@ -1,0 +1,14 @@
+.box{
+    background-color: black;
+}
+.box2{
+    background-color: red;
+}
+.box1{
+    background-color: rebeccapurple;
+}
+.egg{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
